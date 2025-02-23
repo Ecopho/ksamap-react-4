@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar.jsx";
 import '@/components/site.css'
 import '@/components/main.css'
-import '@/app/main/main.js'
+
 //    @ = src  IMPORTANT
 //npm run dev 로 코드 실행하기
 
